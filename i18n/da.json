@@ -1319,7 +1319,7 @@
   "login_form_err_trailing_whitespace": "Mellemrum efter",
   "login_form_failed_get_oauth_server_config": "Fejl med at logge på med OAuth. Tjek serveres webadresse",
   "login_form_failed_get_oauth_server_disable": "OAuth er ikke tilgængelig på denne server",
-  "login_form_failed_login": "Der opstod en vejl ved at logge ind. Tjek server webadressen, e-mailen og kodeordet",
+  "login_form_failed_login": "Der opstod en fejl ved at logge ind. Tjek server webadressen, e-mailen og kodeordet",
   "login_form_handshake_exception": "Der opstod en fejl med at oprette forbindelse til serveren. Aktiver selvsignerede certifikater i indstillingerne, hvis du bruger et selv signeret certifikat.",
   "login_form_password_hint": "kodeord",
   "login_form_server_empty": "Indtast server-URL",
